@@ -32,8 +32,83 @@ Objetivo Especifico
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
+CAPITULO 7 
 
-4. VIDEO 
+SECCION 7-1 Identificación de relaciones en serie-paralelo
+
+2. Visualice y trace los siguientes circuitos en serie-paralelo:
+
+Resolución 
+
+(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+![image](https://user-images.githubusercontent.com/105255508/176790064-731c4f9c-a92a-4a9b-9819-2da8c1886fff.png)
+
+(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/105255508/176790087-c095a645-a653-4b20-b8c4-14829ac3e7b4.png)
+
+4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de las resistencias vistas desde la fuente.
+
+![image](https://user-images.githubusercontent.com/105255508/176790154-29489c2e-bc32-4eff-b877-29defafbeb30.png)
+
+Resolución 
+
+(a) R2 esta en serie
+    
+   R3 y R4 estan en conbinacion serie.paralelo 
+   
+(b)  
+    
+6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.  
+
+![image](https://user-images.githubusercontent.com/105255508/176793529-e43c09c8-5137-4c87-9752-22da27379c05.png)
+
+Resolución  
+
+
+
+SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
+
+8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0kΩ. ¿Cuál es el otro resistor?
+
+Resolución 
+
+10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+![image](https://user-images.githubusercontent.com/105255508/176793737-0f5c671d-0c90-40fd-a6a9-a1480ef99657.png)
+
+Resolución 
+
+12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
+
+![image](https://user-images.githubusercontent.com/105255508/176793804-3a4dfd69-5381-4c29-bc1b-415d06822d7f.png)
+
+Resolución 
+
+14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![image](https://user-images.githubusercontent.com/105255508/176793881-dd670458-b61d-43b0-b46c-7cc453fddcd8.png)
+
+Resolución 
+
+16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
+
+![image](https://user-images.githubusercontent.com/105255508/176793992-91751faf-5e22-4211-9c1e-5536cb5c4087.png)
+
+Resolución
+
+18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje
+
+![image](https://user-images.githubusercontent.com/105255508/176794056-78fd00b0-3af5-4e14-a0a6-1329ae0c1db8.png)
+
+Resolución
+
+20. Determine el voltaje, VAB, en la figura 7-69. 
+
+
+
+16. VIDEO 
 
 5. CONCLUCIONES 
 
