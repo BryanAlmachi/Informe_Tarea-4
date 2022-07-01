@@ -66,13 +66,13 @@ Resolución
 
 Resolución  
 
-
-
 SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0kΩ. ¿Cuál es el otro resistor?
 
 Resolución 
+
+![image](https://user-images.githubusercontent.com/105255508/176835163-dfa6a685-7a85-4b60-8415-658c7f7b327b.png)
 
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
@@ -80,11 +80,27 @@ Resolución
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/176835227-5d001421-b961-467d-823b-88ce28e803a8.png)
+
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/105255508/176793804-3a4dfd69-5381-4c29-bc1b-415d06822d7f.png)
 
 Resolución 
+
+(a) 
+
+![image](https://user-images.githubusercontent.com/105255508/176835295-3636167e-ac82-45a1-ab3d-74405c865874.png)
+
+![image](https://user-images.githubusercontent.com/105255508/176835343-b84c77f8-776f-42fe-8d91-7ae683312604.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105255508/176835494-7f6bf268-8a2f-4a26-ae98-112f64aeb37f.png)
+
+(c)
+
+![image](https://user-images.githubusercontent.com/105255508/176835695-89f573e4-f819-411d-908b-80b156589ecd.png)
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
@@ -92,11 +108,15 @@ Resolución
 
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/176835792-032be19c-a80f-45d5-8f22-82a17c41fe2a.png)
+
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
 ![image](https://user-images.githubusercontent.com/105255508/176793992-91751faf-5e22-4211-9c1e-5536cb5c4087.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176835831-183f1101-7098-4d70-a26d-ae68448c890f.png)
 
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje
 
@@ -104,11 +124,15 @@ Resolución
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176835925-90934119-ad88-4ba3-95ce-087a22c9e923.png)
+
 20. Determine el voltaje, VAB, en la figura 7-69. 
 
 ![image](https://user-images.githubusercontent.com/105255508/176797617-639958c2-57ec-454c-b738-09b286c15cfb.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176836204-7b7a0a96-5415-4b5a-b9c1-df43bbbe363e.png)
 
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC, RAD, RAE, RAF, y RAG).
 
@@ -116,11 +140,15 @@ Resolución
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176836330-b957fa67-a61d-47a6-bd15-b2a433fa8e85.png)
+
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
  
 ![image](https://user-images.githubusercontent.com/105255508/176797673-9a6b52e0-d4a3-4478-ae00-66a175baf0da.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176836700-ad6e6c8f-5098-4664-84c1-dac3694773ee.png)
 
 SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
@@ -130,7 +158,7 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 Resolución
 
-![image](https://user-images.githubusercontent.com/105255508/176824341-9e013107-83d6-4d3d-8bcd-8bbe62ca8456.png)
+![image](https://user-images.githubusercontent.com/105255508/176836814-9ce3ba8e-05af-4114-a080-5b312e46526e.png)
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
@@ -138,11 +166,15 @@ Resolución
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176836879-2e260359-c34f-4c32-b409-a6955be0758e.png)
+
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kΩ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/105255508/176797738-d762f78e-6386-4a2a-ac94-d38a666f5e3f.png)
  
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176836965-e160feab-85df-4f5e-b83d-dff794b54855.png)
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor
 
@@ -150,9 +182,13 @@ Resolución
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176837056-eb452bf7-e903-447c-8833-3415c62ec979.png)
+
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176837180-8f196524-09de-4b30-82da-2118d516d7b7.png)
 
 SECCIÓN 7–4 Efecto de carga de un voltímetro 
 
@@ -160,11 +196,15 @@ SECCIÓN 7–4 Efecto de carga de un voltímetro
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176837311-337adfce-3eb9-4530-b9af-1d03cb02f1dd.png)
+
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
  
 ![image](https://user-images.githubusercontent.com/105255508/176797828-33c5e399-05c8-44ae-90d2-a57ad8e53912.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176837431-ca4bf9bd-6e9b-4b3e-b2dc-50f930031191.png)
 
 SECCIÓN 7–5 Redes en escalera
 
@@ -174,11 +214,15 @@ SECCIÓN 7–5 Redes en escalera
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176837457-3150dd0b-e395-40b6-97a5-c640f87b73c4.png)
+
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
  
 ![image](https://user-images.githubusercontent.com/105255508/176797865-cdcc4f48-b2b2-4008-9201-2e36acbe3640.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176837491-6beb8506-3721-494e-a287-de06863e9d01.png)
 
 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: 
 
@@ -190,17 +234,29 @@ Resolución
   
 Resolución
 
+(a)
+
+![image](https://user-images.githubusercontent.com/105255508/176837535-2538728c-bbfd-4231-91ea-aa77c0797044.png)
+
+(b)
+
+![image](https://user-images.githubusercontent.com/105255508/176837560-a3b1afb6-04ba-41ff-af42-4d58fa71c8ce.png)
+
 SECCIÓN 7–6 El puente Wheatstone
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kΩ y R2/R4 = 0.02. ¿Cuál es RX? 
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176838140-4c81cf0a-d441-4990-b708-4ee1f891ad0f.png)
+
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
 ![image](https://user-images.githubusercontent.com/105255508/176797930-3ab5a946-d65d-44b4-a82a-89ff9ed0dd98.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176838192-a5c49860-b8d1-403d-a90b-2efe556e6ce9.png)
 
 SECCIÓN 7–7 Localización de fallas 
 
@@ -210,17 +266,31 @@ SECCIÓN 7–7 Localización de fallas
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176838283-67a6644f-0225-4372-8bb4-6a15bc98847c.png)
+
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela. 
 
 ![image](https://user-images.githubusercontent.com/105255508/176797978-b0cc5301-74ee-4f2c-bb8b-f477666ef33b.png)
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176838331-876a103e-2501-4d77-85bd-170ac732eb1a.png)
+
+R= No es correcta la lectura del voltimetro
+
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
  
 ![image](https://user-images.githubusercontent.com/105255508/176797997-a274af7b-7310-4e24-aa71-c85b3a3428ca.png)
 
 Resolución
+
+Si R2 se abre
+
+VA=15V
+
+VB=0V 
+
+VC=0V
 
 CAPITULO 8 
 
@@ -406,6 +476,14 @@ Resolución
 ![image](https://user-images.githubusercontent.com/105255508/176826151-69822833-2771-40d6-91f2-bcb16cc1a10f.png)
 
 4. VIDEO 
+
+Parte 1 
+
+https://youtu.be/vsevTIKeN7w
+
+Parte 2
+
+https://youtu.be/qOs2fFN8rE8
 
 5. CONCLUCIONES 
 
