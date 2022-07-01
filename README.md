@@ -459,6 +459,12 @@ Resolución
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
+![image](https://user-images.githubusercontent.com/105255508/176841727-d098d06b-2216-4306-a933-e0bf7b75b580.png)
+
+Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176841785-2410ab54-bd51-4ad7-b78c-229493f321da.png)
+
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 
 34. En la figura 8-88, convierta cada red delta en una red Y
