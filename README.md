@@ -258,7 +258,7 @@ Resolución
 
 Resolución
 
-![image](https://user-images.githubusercontent.com/105255508/176838192-a5c49860-b8d1-403d-a90b-2efe556e6ce9.png)
+![image](https://user-images.githubusercontent.com/105255508/176839972-33b2c687-e9c2-4db0-b7b9-3188bee9a516.png)
 
 SECCIÓN 7–7 Localización de fallas 
 
