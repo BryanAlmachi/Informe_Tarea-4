@@ -447,6 +447,9 @@ Resolución
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176842397-6896dc29-0a96-49ff-ac09-fe55690250f3.png)
+
+
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
