@@ -54,11 +54,13 @@ Resolución
 
 Resolución 
 
-(a) R2 esta en serie
+(a) R2 esta en serie con la conbinacion paralela de R3 y R4 
     
-   R3 y R4 estan en conbinacion serie.paralelo 
-   
-(b)  
+(b) Todas las resistencias estan en paralelo
+
+(c) R1 y R2 estan en serie con la conbinacion paralela de R3 Y R4  
+
+   R5 y R8 estan en serie con la conbinacion paralela de R6 Y R7
     
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.  
 
