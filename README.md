@@ -126,7 +126,11 @@ SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kΩ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kΩ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+![image](https://user-images.githubusercontent.com/105255508/176824220-d38693dd-f7ce-479a-8177-15081a99ab27.png)
+
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176824341-9e013107-83d6-4d3d-8bcd-8bbe62ca8456.png)
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kΩ conectada de A a B, ¿cuál es el voltaje de salida?
 
@@ -223,6 +227,8 @@ CAPITULO 8
 SECCIÓN 8–3 Conversiones de fuente
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/105255508/176824549-94f75416-ab1a-4da6-ada0-541f6a3e7821.png)
  
 Resolución
 
@@ -237,6 +243,12 @@ Is=5.4545 A
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176824647-016354bd-02cd-4e41-b3a8-d4b928803478.png)
+
+RS= 1.6 V/8.0 A
+
+RS= O.2 Ω 
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
  
@@ -258,9 +270,9 @@ Vs= 27 V
 
 ![image](https://user-images.githubusercontent.com/105255508/176798091-c756a087-5d87-4af6-ba32-3b94fe79a5e2.png)
 
- 
 Resolución	 
 
+![image](https://user-images.githubusercontent.com/105255508/176824796-9b12fb51-31d0-4e41-9239-9a8fe29b501b.png)
 
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
@@ -268,6 +280,7 @@ Resolución
  
 Resolución 
  
+![image](https://user-images.githubusercontent.com/105255508/176824888-bcb504fb-3a0c-4f3e-b8d5-9c655d09a026.png)
 
 12. Repita el problema 11 si R2 es de 10 kΩ.
 
@@ -305,13 +318,15 @@ El intervalo el intervalo del voltaje de referencia {-5.51 V; 8.44V}
  
 Resolución 
 
+![image](https://user-images.githubusercontent.com/105255508/176825076-a7ea504b-34d0-4d5b-9d2f-401c8ada0740.png)
+
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve des de las terminales A y B.
 
 ![image](https://user-images.githubusercontent.com/105255508/176798441-847d1b2f-7a66-426e-8581-7aa9c05b2234.png)
  
 Resolución 
-a)	                      
-RTh= 27 Ω+ (75 Ω ‖ ( 100 Ω + 47 Ω) 
+
+![image](https://user-images.githubusercontent.com/105255508/176825157-d827a18e-a94c-4435-a018-f73d8a5aa8be.png)
 
 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
  
@@ -319,11 +334,23 @@ RTh= 27 Ω+ (75 Ω ‖ ( 100 Ω + 47 Ω)
  
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176825263-7769bb39-f344-435f-9fa2-1e4281485beb.png)
+
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 k Ω, 5 k Ω, y 10 k Ω en la figura 8-80.
  
 ![image](https://user-images.githubusercontent.com/105255508/176798573-9662f819-6dcd-4be3-b8dd-9b1d9c2ed5d3.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176825376-10a0e78a-9e0c-4ea2-bad3-78fa684dcbbe.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105255508/176825518-1fdf1e62-c2cb-49bd-903f-14e59bad8e64.png)
+
+Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176825593-f8c2f43a-35ee-410e-8f40-e3461c42a755.png)
 
 SECCIÓN 8–6 Teorema de Norton
 
@@ -333,9 +360,14 @@ SECCIÓN 8–6 Teorema de Norton
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176825646-3cd24b0f-bc41-4ce4-94c9-679add9316d8.png)
+
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8=8 kΩ.
 
+![image](https://user-images.githubusercontent.com/105255508/176825771-041933d3-4385-491b-ba62-eb52cbba39b6.png)
+
 Resolución
+
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
@@ -351,6 +383,8 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 Resolución
 
+![image](https://user-images.githubusercontent.com/105255508/176826043-4d134cf7-f506-40bb-bf8c-d17221b14848.png)
+
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
 SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
@@ -360,12 +394,16 @@ SECCIÓN 8–8 Conversiones delta a Y (Δ a Y) y Y a Δ
 ![image](https://user-images.githubusercontent.com/105255508/176798728-c67c5068-0778-4b3d-b487-398d860d7574.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176826116-dfd0864f-793c-4b66-a18d-9588dff215e0.png)
  
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
  
 ![image](https://user-images.githubusercontent.com/105255508/176798744-610b1f56-18b0-41a1-8c1d-966ddab7bb1b.png)
 
 Resolución
+
+![image](https://user-images.githubusercontent.com/105255508/176826151-69822833-2771-40d6-91f2-bcb16cc1a10f.png)
 
 4. VIDEO 
 
