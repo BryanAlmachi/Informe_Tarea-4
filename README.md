@@ -504,7 +504,7 @@ https://youtu.be/qOs2fFN8rE8
 
 •	Para resumir, una fuente de voltaje ideal tiene resistencia interna de cero y proporciona un voltaje constante entre las terminales, sin importar la resistencia de carga, el teorema de superposición es útil para un circuito de fuentes múltiples.
 
-•	Para sintetizar, es importante conocer los teoremas para la resolución de ejercicios, el teorema de Thevenin permite reducir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de voltaje equivalente en serie con una resistencia equivalente,  y el teorema de Norton permite recudir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia equivalente. 
+•	Para sintetizar, es importante conocer los teoremas para la resolución de ejercicios, el teorema de Thevenin permite reducir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de voltaje equivalente en serie con una resistencia equivalente,  mientras que el teorema de Norton permite recudir cualquier circuito resistivo lineal de dos terminales a una forma equivalente compuesta por una fuente de corriente equivalente en paralelo con una resistencia equivalente. 
 
 6. BIBLIOGRAFIA 
 
